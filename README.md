@@ -1,3 +1,4 @@
+# DinnerDeciderApp
 Deciding for a dinner, you can add your custom choices.
 
 <table align="center">
