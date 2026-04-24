@@ -1,5 +1,12 @@
-# DinnerDeciderApp
-Deciding for a dinner, you can add your custom choices.
+# Dinner Decider App
+
+## Overview
+Dinner Decider is a fun and simple Android application designed to solve the age-old question: "What's for dinner?" It takes away the indecision by randomly picking a meal for you from a customizable list.
+
+## Features
+- **Random Selection**: Tap the "DECIDE!" button to get a random dinner suggestion.
+- **Add New Foods**: Easily expand your list by adding new meal options directly in the app.
+- **Pre-loaded List**: Comes with a starting list of popular choices like Pizza, Chinese, and Burgers.
 
 <table align="center">
   <tr>
